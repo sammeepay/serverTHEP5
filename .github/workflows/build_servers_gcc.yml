@@ -3,13 +3,13 @@ name: Build servers with GCC
 
 concurrency:
   group: ${{ github.repository }}-${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: ${{ github.ref != 'refs/heads/master' }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
 
 on:
   workflow_dispatch:
   push:
     branches:
-      - master
+      - main
   pull_request:
     paths:
       # Always trigger all Github Actions if an action or something CI related was changed
