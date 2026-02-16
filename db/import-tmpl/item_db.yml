@@ -1035,28 +1035,28 @@ Body:
     Script: |
       bonus bAllStats,2;
       bonus2 bExpAddRace,RC_All,20;
-  - Id: 510076
-    AegisName: D_Glacier_B_Knife
-    Name: Dim Glacier Basic Knife
-    Type: Weapon
-    SubType: Dagger
-    Buy: 50000
-    Weight: 1200
-    Attack: 210
-    MagicAttack: 210
-    Range: 1
-    Slots: 1
-    Jobs:
-      Novice: true
-      SuperNovice: true
-    Locations:
-      Right_Hand: true
-    WeaponLevel: 5
-    EquipLevelMin: 230
-    Refineable: true
-    Gradable: true
-    Flags:
-      DropEffect: CLIENT
+##  - Id: 510076
+##    AegisName: D_Glacier_B_Knife
+##    Name: Dim Glacier Basic Knife
+##    Type: Weapon
+##    SubType: Dagger
+##    Buy: 50000
+##    Weight: 1200
+##    Attack: 210
+##    MagicAttack: 210
+##    Range: 1
+##    Slots: 1
+##    Jobs:
+##      Novice: true
+##      SuperNovice: true
+##    Locations:
+##      Right_Hand: true
+##    WeaponLevel: 5
+##    EquipLevelMin: 230
+##    Refineable: true
+##    Gradable: true
+##    Flags:
+##      DropEffect: CLIENT
 
 # Add Items ETC.
 #=============================================================

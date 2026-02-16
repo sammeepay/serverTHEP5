@@ -19,7 +19,7 @@ alberta,245,93,3	duplicate(Sea_Captain_amatsu)	Sea Captain#ama1	709
 
 // cities/ayothaya.txt
 //============================================================
-alberta,247,42,3	duplicate(Aibakthing_ayothaya)	Aibakthing#ayo	843
+//alberta,247,42,3	duplicate(Aibakthing_ayothaya)	Aibakthing#ayo	843
 
 // cities/gonryun.txt
 //============================================================
